@@ -1,3 +1,6 @@
 [submodule "KnowledgeTree-T1-datasourcing"]
 	path = KnowledgeTree-T1-datasourcing
 	url = https://github.com/bruckj/KnowledgeTree-T1-datasourcing
+[submodule "bruckj-Knowledgetree-T7-ML"]
+	path = bruckj-Knowledgetree-T7-ML
+	url = https://github.com/bruckj/bruckj-Knowledgetree-T7-ML
