@@ -7,3 +7,6 @@
 [submodule "Knowledgetree-T3-Database"]
 	path = Knowledgetree-T3-Database
 	url = https://github.com/bruckj/Knowledgetree-T3-Database
+[submodule "KnowledgeTree-WP2-textmining"]
+	path = KnowledgeTree-WP2-textmining
+	url = https://github.com/bruckj/KnowledgeTree-WP2-textmining
