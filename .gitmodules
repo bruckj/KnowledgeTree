@@ -13,3 +13,6 @@
 [submodule "KnowledgeTree-T6-graphanalytics"]
 	path = KnowledgeTree-T6-graphanalytics
 	url = https://github.com/bruckj/KnowledgeTree-T6-graphanalytics
+[submodule "Knowledgetree-WP4-Frontend"]
+	path = Knowledgetree-WP4-Frontend
+	url = https://github.com/bruckj/Knowledgetree-WP4-Frontend
