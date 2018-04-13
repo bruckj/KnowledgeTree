@@ -4,3 +4,6 @@
 [submodule "bruckj-Knowledgetree-T7-ML"]
 	path = bruckj-Knowledgetree-T7-ML
 	url = https://github.com/bruckj/bruckj-Knowledgetree-T7-ML
+[submodule "Knowledgetree-T3-Database"]
+	path = Knowledgetree-T3-Database
+	url = https://github.com/bruckj/Knowledgetree-T3-Database
