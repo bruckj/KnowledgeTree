@@ -10,3 +10,6 @@
 [submodule "KnowledgeTree-WP2-textmining"]
 	path = KnowledgeTree-WP2-textmining
 	url = https://github.com/bruckj/KnowledgeTree-WP2-textmining
+[submodule "KnowledgeTree-T6-graphanalytics"]
+	path = KnowledgeTree-T6-graphanalytics
+	url = https://github.com/bruckj/KnowledgeTree-T6-graphanalytics
